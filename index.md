@@ -40,20 +40,10 @@ Many planning tools stop at “make a list.” FocusFlow focuses on:
 
 ---
 
-## How AI fits in (high level)
+## How AI fits in
 - Task breakdown: turn “Finish lab report” into a short, doable checklist.
 - Schedule rescue: if a task isn’t completed, suggest a smaller next step and reshuffle the rest of the day/week without punishment.
 - Optional “stuck” help: offer one concrete action to restart.
-
----
-
-## Pages in this mockup
-- Start session: `start-session.md`
-- Tasks: `tasks.md`
-- Stuck rescue: `stuck.md`
-- Insights: `insights.md`
-- Settings: `settings.md`
-- About: `about.md`
 
 ---
 
