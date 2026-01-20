@@ -1,6 +1,7 @@
 ---
 title: I’m stuck
 layout: default
+nav_exclude: true
 ---
 
 [← Back](focus) | [Home](index)
