@@ -43,7 +43,7 @@ Many planning tools stop at “make a list.” FocusFlow focuses on:
 ## How AI fits in (high level)
 - Task breakdown: turn “Finish lab report” into a short, doable checklist.
 - Schedule rescue: if a task isn’t completed, suggest a smaller next step and reshuffle the rest of the day/week without punishment.
-- Optional “stuck” help: offer one concrete action to restart momentum.
+- Optional “stuck” help: offer one concrete action to restart.
 
 ---
 
@@ -57,4 +57,4 @@ Many planning tools stop at “make a list.” FocusFlow focuses on:
 
 ---
 
-Notes: This mockup is a student design prototype. It does not provide medical advice. Medication decisions should be made with a qualified clinician.
+Notes: This mockup is just a design prototype.
