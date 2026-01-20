@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+nav_exclude: true
 ---
 
 [← Home](index)
