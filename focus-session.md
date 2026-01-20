@@ -22,9 +22,9 @@ Open the report document and write the Methods section title.
 ---
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin: 14px 0;">
-  <a href="stuck.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">I’m stuck / distracted</a>
-  <a href="focus-session.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Check-in: still on task</a>
-  <a href="session-wrapup.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">End session</a>
+  <a href="stuck" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">I’m stuck / distracted</a>
+  <a href="focus-session" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Check-in: still on task</a>
+  <a href="session-wrapup" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">End session</a>
 </div>
 
 ---
