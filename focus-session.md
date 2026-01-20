@@ -1,6 +1,7 @@
 ---
 title: Focus session
 layout: default
+nav_exclude: true
 ---
 
 [← Back](start-session.md) | [Home](index.md)
