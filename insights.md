@@ -1,6 +1,7 @@
 ---
 title: Insights
 layout: default
+nav_exclude: true
 ---
 
 [← Home](index)
