@@ -1,6 +1,7 @@
 ---
 title: Settings
 layout: default
+nav_exclude: true
 ---
 
 [← Home](index)
