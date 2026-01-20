@@ -1,38 +1,24 @@
 ---
-title: Focus session
+title: Session wrap-up
 layout: default
 ---
 
-[← Back](start-session.md) | [Home](index.md)
+[Home](index) | [Tasks](tasks)
 
-# Focus session (25 min)
+# Wrap-up
 
-## Current task
-Finish lab report draft
+**Did you make progress?**
+- Yes, I finished the step
+- Some progress
+- Not really
 
-## Current step
-Open the report document and write the Methods section title.
+**One line note (optional):**  
+"Got the outline done."
 
----
+**AI schedule update (example):**  
+Nice. Next step: add 2–3 details under each bullet.
 
-## Timer (mock)
-**Time left:** 25:00  
-(Prototype note: this would run as a real timer later.)
-
----
-
-<div style="display:flex; gap:12px; flex-wrap:wrap; margin: 14px 0;">
-  <a href="stuck.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">I’m stuck / distracted</a>
-  <a href="focus-session.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Check-in: still on task</a>
-  <a href="session-wrapup.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">End session</a>
+<div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:16px;">
+  <a href="start-session" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Start another session</a>
+  <a href="insights" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">See insights</a>
 </div>
-
----
-
-## Quick “distraction dump” (mock)
-Write it here so you don’t forget, then go back to the step.
-
-- "Email TA about lab data"
-- "Buy groceries"
-
-(Prototype note: later we can have AI auto-sort these into “urgent vs later.”)
