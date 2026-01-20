@@ -1,6 +1,7 @@
 ---
 title: Start a focus session
 layout: default
+nav_exclude: true
 ---
 
 [← Home](index.md)
