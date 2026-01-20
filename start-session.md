@@ -25,8 +25,8 @@ Pick what you want to work on. FocusFlow will break it into small steps so it’
 ---
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:16px;">
-  <a href="focus-session.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Start 25-min session</a>
-  <a href="tasks.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Change task</a>
+  <a href="focus-session" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Start 25-min session</a>
+  <a href="tasks" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Change task</a>
 </div>
 
 ---
