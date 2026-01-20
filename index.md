@@ -8,6 +8,8 @@ A lightweight ADHD support app mockup (BME 450)
 
 This is a clickable prototype to show the main flow: plan → start → stay on track → reflect.
 
+FocusFlow uses simple AI to (1) break big tasks into clear next steps, and (2) adapt your plan when you fall behind, so the schedule stays realistic instead of turning into guilt.
+
 ---
 
 ## Quick actions
@@ -30,10 +32,18 @@ This is a clickable prototype to show the main flow: plan → start → stay on 
 ---
 
 ## What this app is trying to solve
-Many planning tools stop at “make a list.” This mockup focuses on:
-- getting you started (tiny next step)
-- keeping you on track (light check-ins)
-- making progress visible (simple summaries)
+Many planning tools stop at “make a list.” FocusFlow focuses on:
+- getting you started with a tiny next step
+- keeping you on track with light check-ins
+- making progress visible with simple summaries
+- re-planning automatically when things don’t go as planned
+
+---
+
+## How AI fits in (high level)
+- Task breakdown: turn “Finish lab report” into a short, doable checklist.
+- Schedule rescue: if a task isn’t completed, suggest a smaller next step and reshuffle the rest of the day/week without punishment.
+- Optional “stuck” help: offer one concrete action to restart momentum.
 
 ---
 
@@ -47,5 +57,4 @@ Many planning tools stop at “make a list.” This mockup focuses on:
 
 ---
 
-### Notes (for reviewers)
-This is a UI mockup only. It doesn’t diagnose, treat, or replace clinical care. Medication decisions are outside the app.
+Notes: This mockup is a student design prototype. It does not provide medical advice. Medication decisions should be made with a qualified clinician.
