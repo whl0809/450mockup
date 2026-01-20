@@ -1,6 +1,7 @@
 ---
 title: Session wrap-up
 layout: default
+nav_exclude: true
 ---
 
 [Home](index) | [Tasks](tasks)
