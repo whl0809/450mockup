@@ -8,7 +8,7 @@ A lightweight ADHD support app mockup (BME 450)
 
 This is a clickable prototype to show the main flow: plan → start → stay on track → reflect.
 
-FocusFlow uses simple AI to (1) break big tasks into clear next steps, and (2) adapt your plan when you fall behind, so the schedule stays realistic instead of turning into guilt.
+We let the user type what they want to do in plain language. The AI then breaks it into small, concrete steps and suggests a realistic schedule. If the user falls behind, the AI adjusts the plan instead of keeping an unrealistic to-do list.
 
 ---
 
