@@ -15,7 +15,7 @@ FocusFlow uses simple AI to (1) break big tasks into clear next steps, and (2) a
 ## Quick actions
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; margin: 14px 0;">
-  <a href="start-session.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Start a focus session</a>
+  <a href="start-session" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Start a focus session</a>
   <a href="tasks.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">My tasks</a>
   <a href="stuck.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">I’m stuck</a>
   <a href="insights.md" style="padding:10px 14px; border:1px solid #ccc; border-radius:10px; text-decoration:none;">Insights</a>
