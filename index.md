@@ -1,6 +1,7 @@
 ---
 title: FocusFlow (Mockup)
 layout: default
+nav_exclude: true
 ---
 
 # FocusFlow
